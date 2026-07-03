@@ -12,5 +12,5 @@
 ![](https://streak-stats.demolab.com/?user=dgexplores&theme=codeSTACKr&hide_border=true)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=dgexplores&theme=codeSTACKr&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
-![snake gif](https://github.com/dgexplores/dgexplores/blob/output/github-snake-dark.svg)
+<!-- ![snake gif](https://github.com/dgexplores/dgexplores/blob/output/github-snake-dark.svg) >>
 
