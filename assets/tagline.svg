@@ -1,1 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="900"
+     height="70"
+     viewBox="0 0 900 70">
 
+  <style>
+    .text {
+      fill: #FF4FD8;
+      font-family: "Courier New", monospace;
+      font-size: 22px;
+      font-weight: bold;
+      letter-spacing: 1.5px;
+      text-anchor: middle;
+    }
+  </style>
+
+  <text x="450" y="43" class="text">
+    BUILDING SOLUTIONS • EXPLORING AI × SECURITY
+  </text>
+</svg>
