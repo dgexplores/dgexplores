@@ -2,7 +2,7 @@
   <img
     src="./assets/deepak-gangwar.svg"
     alt="Deepak Gangwar"
-    width="98%"
+    width="100%"
   />
 </p>
 ** Final Year Software Engineer **
