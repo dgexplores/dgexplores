@@ -1,1 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="150" height="130" viewBox="0 0 150 130">
+  <style>
+    .lock {
+      fill: #A855F7;
+      font-family: "Courier New", monospace;
+      font-size: 14px;
+      font-weight: bold;
+      white-space: pre;
+    }
+  </style>
 
+  <text x="10" y="14" class="lock">
+    <tspan x="10" dy="0">    ▄▄▄▄▄</tspan>
+    <tspan x="10" dy="15">   █     █</tspan>
+    <tspan x="10" dy="15">   █     █</tspan>
+    <tspan x="10" dy="15"> ▄█████████▄</tspan>
+    <tspan x="10" dy="15"> █    ▄    █</tspan>
+    <tspan x="10" dy="15"> █   ███   █</tspan>
+    <tspan x="10" dy="15"> █         █</tspan>
+    <tspan x="10" dy="15"> ▀█████████▀</tspan>
+  </text>
+</svg>
