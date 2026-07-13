@@ -24,7 +24,9 @@
 
 </div>
 
----
+<p align="center">
+  <img src="./assets/github.gif" alt="Cyberpunk Developer Setup" width="100%" />
+</p>
 
 ## 💫 About Me
 
