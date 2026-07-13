@@ -1,3 +1,47 @@
-<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:svgjs="http://svgjs.dev/svgjs" viewBox="0 0 800 800" width="150" height="130" preserveAspectRatio="xMidYMid slice"><def[...]
-    <rect width="1" height="1" x="5" y="6" fill="#FFFF54"></rect><rect width="1" height="1" x="6" y="6" fill="#FFFF54"></rect><rect width="1" height="1" x="7" y="6" fill="#FFFF54"></rect><rect widt[...]
-  </pattern></defs><rect width="100%" height="100%" fill="url(#pppixelate-pattern)"></rect></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="260" height="200" viewBox="0 0 260 200">
+  <defs>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="3.2" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <style>
+    .pixel { 
+      font-family: "Courier New", monospace; 
+      font-size: 18px; 
+      font-weight: bold; 
+      white-space: pre;
+    }
+    .top   { fill: #FFD08A; }
+    .body  { fill: #FF8C00; }
+    .core  { fill: #FF6A00; }
+    .eyes  { fill: #B34700; }
+  </style>
+
+  <text x="55" y="40" class="pixel" filter="url(#glow)">
+    <tspan x="55" dy="0"  class="top">  ██████████  </tspan>
+    <tspan x="55" dy="19" class="top">  ██████████  </tspan>
+
+    <tspan x="55" dy="19" class="body">  █ ██████ █  </tspan>
+    <tspan x="55" dy="19" class="core">██████████████</tspan>
+
+    <tspan x="55" dy="19" class="body">██████  ██████</tspan>
+    <tspan x="55" dy="19" class="body">  ██████████  </tspan>
+
+    <tspan x="55" dy="19" class="top">  ██████████  </tspan>
+
+    <!-- eyes -->
+    <tspan x="55" dy="19" class="eyes">    ██  ██    </tspan>
+    <tspan x="55" dy="19" class="eyes">    ██  ██    </tspan>
+
+    <!-- extra gap between eyes and mouth -->
+    <tspan x="55" dy="19"></tspan>
+
+    <!-- mouth -->
+    <tspan x="55" dy="19" class="eyes">     ████     </tspan>
+  </text>
+</svg>
