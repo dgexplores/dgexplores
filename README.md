@@ -5,7 +5,18 @@
     width="100%"
   />
 </p>
-** Final Year Software Engineer **
+
+<p align="center">
+  <img src="./assets/lock.svg" width="75" alt="Lock" />
+  &nbsp;&nbsp;
+  <b>×</b>
+  &nbsp;&nbsp;
+  <img src="./assets/tagline.svg" width="560" alt="Building Solutions • Exploring AI × Security" />
+  &nbsp;&nbsp;
+  <b>×</b>
+  &nbsp;&nbsp;
+  <img src="./assets/pixel-icon.svg" width="75" alt="Pixel Icon" />
+</p>
 
 <div align="center">
 
