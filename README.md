@@ -1,11 +1,10 @@
 <p align="center">
-  <img src="./assets/deepak-gangwar.svg" alt="Deepak Gangwar" width="90%">
+  <img
+    src="./assets/deepak-gangwar.svg"
+    alt="Deepak Gangwar"
+    width="98%"
+  />
 </p>
-
-<p align="center">
-  <img src="./assets/github.gif" alt="Cyberpunk Animation" width="100%">
-</p>
-
 ** Final Year Software Engineer **
 
 <div align="center">
