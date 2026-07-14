@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="1200"
+     height="150"
+     viewBox="0 0 1200 150">
+
+  <defs>
+    <linearGradient id="borderGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#A855F7"/>
+      <stop offset="35%" stop-color="#EC4899"/>
+      <stop offset="70%" stop-color="#F59E0B"/>
+      <stop offset="100%" stop-color="#FACC15"/>
+    </linearGradient>
+  </defs>
+
+  <style>
+    .mono {
+      font-family: "DejaVu Sans Mono", "Courier New", monospace;
+    }
+  </style>
+
+  <!-- BACKGROUND -->
+  <rect x="3" y="3"
+        width="1194"
+        height="144"
+        rx="14"
+        fill="#080810"
+        stroke="url(#borderGradient)"
+        stroke-width="3"/>
+
+  <!-- TERMINAL CONTROLS -->
+  <circle cx="30" cy="30" r="6" fill="#FF5F57"/>
+  <circle cx="52" cy="30" r="6" fill="#FEBC2E"/>
+  <circle cx="74" cy="30" r="6" fill="#28C840"/>
+
+  <!-- TERMINAL PATH -->
+  <text x="100" y="37"
+        class="mono"
+        font-size="18"
+        fill="#C084FC">
+    deepak@system:~/tech-stack
+  </text>
+
+  <!-- ONLINE STATUS -->
+  <text x="1080" y="37"
+        class="mono"
+        font-size="14"
+        fill="#86EFAC">
+    ● ONLINE
+  </text>
+
+  <!-- DIVIDER -->
+  <line x1="0" y1="55"
+        x2="1200" y2="55"
+        stroke="url(#borderGradient)"
+        stroke-width="1"/>
+
+  <!-- COMMAND -->
+  <text x="30" y="100"
+        class="mono"
+        font-size="20"
+        font-weight="bold"
+        fill="#FACC15">
+    $ stack --list --all
+  </text>
+
+  <!-- STATUS -->
+  <text x="30" y="130"
+        class="mono"
+        font-size="15"
+        fill="#F472B6">
+    &gt; scanning installed technologies... modules detected ✓
+  </text>
+
+</svg>
