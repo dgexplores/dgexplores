@@ -36,9 +36,9 @@
 
 <p align="left">
   <img
-    src="./assets/initializing-profile.svg?v=4"
-    alt="Initializing User Profile..."
-    width="65%"
+    src="./assets/initializing-profile.svg?v=10"
+    alt="INITIALIZING USER PROFILE......."
+    width="60%"
   />
 </p>
 
