@@ -1,0 +1,136 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="1200"
+     height="820"
+     viewBox="0 0 1200 820">
+
+  <defs>
+    <linearGradient id="borderGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#A855F7"/>
+      <stop offset="35%" stop-color="#EC4899"/>
+      <stop offset="70%" stop-color="#F59E0B"/>
+      <stop offset="100%" stop-color="#FACC15"/>
+    </linearGradient>
+
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <style>
+    .text {
+      font-family: "DejaVu Sans Mono", "Courier New", monospace;
+      font-size: 19px;
+      fill: #D1D5DB;
+    }
+
+    .purple { fill: #C084FC; }
+    .pink   { fill: #F472B6; }
+    .orange { fill: #FB923C; }
+    .yellow { fill: #FACC15; }
+    .green  { fill: #86EFAC; }
+
+    .section {
+      font-family: "DejaVu Sans Mono", monospace;
+      font-size: 18px;
+      font-weight: bold;
+      fill: #F472B6;
+    }
+  </style>
+
+  <!-- TERMINAL BACKGROUND -->
+  <rect x="3" y="3"
+        width="1194" height="814"
+        rx="14"
+        fill="#080810"
+        stroke="url(#borderGradient)"
+        stroke-width="3"/>
+
+  <!-- TOP BAR -->
+  <circle cx="30" cy="30" r="6" fill="#FF5F57"/>
+  <circle cx="52" cy="30" r="6" fill="#FEBC2E"/>
+  <circle cx="74" cy="30" r="6" fill="#28C840"/>
+
+  <text x="100" y="37" class="purple"
+        font-family="monospace"
+        font-size="18">
+    deepak@system:~
+  </text>
+
+  <line x1="0" y1="55" x2="1200" y2="55"
+        stroke="url(#borderGradient)"
+        stroke-width="1"/>
+
+  <!-- WHOAMI -->
+  <text x="30" y="95" class="yellow text">$ whoami</text>
+
+  <text x="30" y="130" class="text">
+    Hey, I'm Deepak — a final-year B.Tech student exploring AI, ML,
+  </text>
+  <text x="30" y="158" class="text">
+    and software engineering.
+  </text>
+
+  <text x="30" y="200" class="text">
+    I build things I can't find, break the things I build,
+  </text>
+  <text x="30" y="228" class="text">
+    and learn from both.
+  </text>
+
+  <!-- CURRENT FOCUS -->
+  <text x="30" y="285" class="section">
+    ├─[ CURRENT_FOCUS ]────────────────────────────────────────────────────────────────────────────
+  </text>
+
+  <text x="50" y="325" class="text">
+    <tspan class="purple">◈</tspan> AI &amp; Machine Learning
+  </text>
+  <text x="50" y="355" class="text">
+    <tspan class="pink">◈</tspan> Intelligent Systems
+  </text>
+  <text x="50" y="385" class="text">
+    <tspan class="orange">◈</tspan> AI Agents
+  </text>
+  <text x="50" y="415" class="text">
+    <tspan class="yellow">◈</tspan> Security × Observability
+  </text>
+
+  <!-- PROJECTS -->
+  <text x="30" y="470" class="section">
+    ├─[ PROJECTS :: ACTIVE ]───────────────────────────────────────────────────────────────────────
+  </text>
+
+  <text x="50" y="510" class="text">
+    <tspan class="purple">[01]</tspan> Real-Time Network Intrusion Detection &amp; Threat Analytics System
+  </text>
+
+  <text x="50" y="545" class="text">
+    <tspan class="pink">[02]</tspan> ML-Powered Banking Customer Churn Intelligence &amp; Risk Scoring Engine
+  </text>
+
+  <text x="50" y="580" class="text">
+    <tspan class="orange">[03]</tspan> Autonomous B2B Business Intelligence Bot
+  </text>
+
+  <!-- CURRENTLY -->
+  <text x="30" y="635" class="section">
+    ├─[ CURRENTLY ]────────────────────────────────────────────────────────────────────────────────
+  </text>
+
+  <text x="50" y="675" class="text">› Grinding DSA &amp; Problem Solving</text>
+  <text x="50" y="705" class="text">› Strengthening Core CS — OS • Databases • Networks</text>
+  <text x="50" y="735" class="text">› Learning System Design • Finding my way into Open Source</text>
+
+  <!-- AVAILABILITY -->
+  <text x="30" y="785" class="green"
+        font-family="DejaVu Sans Mono, monospace"
+        font-size="18"
+        font-weight="bold">
+    STATUS ▸ OPEN TO SOFTWARE ENGINEERING &amp; AI OPPORTUNITIES  ✓
+  </text>
+
+</svg>
