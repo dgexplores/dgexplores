@@ -34,11 +34,13 @@
   <img src="./assets/github.gif" alt="Cyberpunk Developer Setup" width="100%" />
 </p>
 
+
+
 <p align="left">
   <img
     src="./assets/initializing-profile.svg?v=10"
     alt="INITIALIZING USER PROFILE......."
-    width="60%"
+    width="45%"
   />
 </p>
 
