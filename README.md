@@ -27,8 +27,6 @@
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail)](mailto:YOUR_EMAIL)
 
 <img src="https://komarev.com/ghpvc/?username=dgexplores&style=for-the-badge&color=blueviolet"/>
-<img src="https://img.shields.io/github/followers/dgexplores?style=for-the-badge"/>
-<img src="https://img.shields.io/github/stars/dgexplores?style=for-the-badge"/>
 
 </div>
 
