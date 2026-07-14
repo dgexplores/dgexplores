@@ -34,7 +34,7 @@
   <img src="./assets/github.gif" alt="Cyberpunk Developer Setup" width="100%" />
 </p>
 
-<br><br><br>
+<br>
 <p align="left">
   <img
     src="./assets/initializing-profile.svg?v=10"
@@ -42,31 +42,15 @@
     width="50%"
   />
 </p>
+<br>
 
-
-# About Me
-
-```yaml
-Role:
-  - Software Engineer
-  - AI Engineer
-
-Currently Building:
-  - Network Intrusion Detection System
-  - Intelligent Observability Platform
-
-Learning:
-  - Machine Learning
-  - Autonomous Agents
-  - Cloud Computing & Kubernetes
-  - System Design
-
-2026 Goals:
-  - Crack FAANG
-  - Contribute to Open Source
-  - Build AI Products
-```
-
+<p align="center">
+  <img
+    src="./assets/about-terminal.svg?v=1"
+    alt="Deepak Gangwar — About"
+    width="100%"
+  />
+</p>
 ---
 
 ## 💻 Tech Stack
