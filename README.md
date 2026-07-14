@@ -34,6 +34,17 @@
   <img src="./assets/github.gif" alt="Cyberpunk Developer Setup" width="100%" />
 </p>
 
+<br>
+
+<p align="center">
+  <img
+    src="./assets/initializing-profile.svg"
+    alt="Initializing User Profile"
+    width="82%"
+  />
+</p>
+
+
 ## 💫 About Me
 
 ```yaml
