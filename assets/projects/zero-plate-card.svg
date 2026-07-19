@@ -1,8 +1,59 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="720" height="420" viewBox="0 0 720 420" role="img" aria-label="Zero Plate Card">
-  <rect width="720" height="420" rx="28" fill="#111827"/>
-  <rect x="32" y="32" width="656" height="356" rx="24" fill="#1f2937" stroke="#a78bfa" stroke-width="2"/>
-  <circle cx="360" cy="170" r="96" fill="#a78bfa"/>
-  <rect x="120" y="290" width="480" height="18" rx="9" fill="#4b5563"/>
-  <rect x="180" y="322" width="360" height="18" rx="9" fill="#4b5563"/>
-  <text x="188" y="368" fill="#f9fafb" font-family="Arial, sans-serif" font-size="28" font-weight="700">Zero Plate</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="430" viewBox="0 0 1200 430" role="img" aria-label="ZERO-PLATE">
+  <defs>
+    <linearGradient id="themeGradient" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#A855F7"/>
+      <stop offset="34%" stop-color="#EC4899"/>
+      <stop offset="68%" stop-color="#F97316"/>
+      <stop offset="100%" stop-color="#FACC15"/>
+    </linearGradient>
+    <linearGradient id="accentRule" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#FACC15"/>
+      <stop offset="55%" stop-color="#FACC15" stop-opacity=".55"/>
+      <stop offset="100%" stop-color="#FACC15" stop-opacity="0"/>
+    </linearGradient>
+    <style>
+      text { font-family: "Courier New", monospace; }
+      .meta { font-size:13px; font-weight:800; letter-spacing:1px; fill:#FACC15; }
+      .status { font-size:11px; font-weight:800; letter-spacing:1px; fill:#86EFAC; }
+      .title { font-size:28px; font-weight:900; fill:#F8FAFC; }
+      .subtitle { font-size:15px; fill:#AAB2C0; }
+      .category { font-size:12px; font-weight:800; letter-spacing:1px; fill:#F472B6; }
+      .label { font-size:12px; font-weight:800; letter-spacing:1px; fill:#FACC15; }
+      .feature { font-size:15px; font-weight:700; fill:#D7DCE5; }
+      .stack { font-size:14px; font-weight:700; fill:#C084FC; }
+      .repo { font-size:13px; font-weight:800; fill:#F97316; }
+      .arrow { font-size:21px; font-weight:900; fill:#FACC15; }
+      .footer { font-size:12px; font-weight:800; fill:#FACC15; }
+    </style>
+  </defs>
+
+  <rect width="1200" height="430" fill="#0D1117"/>
+  <rect x="50" y="14" width="1100" height="402" rx="14" fill="#07060D" stroke="url(#themeGradient)" stroke-width="2.5"/>
+
+  <text x="78" y="49" class="meta">PROJECT_03</text>
+  <circle cx="995" cy="44" r="4" fill="#86EFAC"/>
+  <text x="1009" y="49" class="status">SOCIAL IMPACT</text>
+
+  <rect x="78" y="67" width="1044" height="2" fill="url(#accentRule)"/>
+
+  <text x="78" y="113" class="title">ZERO-PLATE</text>
+  <text x="78" y="143" class="subtitle">Multi-role food recovery platform connecting surplus food with communities.</text>
+  <text x="78" y="175" class="category">WEB PLATFORM • FOOD RECOVERY</text>
+
+  <text x="78" y="211" class="label">FEATURES</text>
+  <text x="88" y="244" class="feature">&gt; Role-based access</text>
+<text x="88" y="282" class="feature">&gt; Donation workflow</text>
+<text x="88" y="320" class="feature">&gt; Admin dashboard</text>
+<text x="88" y="358" class="feature">&gt; Secure data handling</text>
+
+  <text x="594" y="211" class="label">STACK</text>
+  <text x="594" y="248" class="stack">PHP  •  MySQL  •  HTML  •  CSS  •  JavaScript</text>
+
+  <rect x="594" y="279" width="494" height="1" fill="#242938"/>
+  <text x="594" y="315" class="label">REPOSITORY</text>
+  <text x="594" y="350" class="repo">github.com/dgexplores/ZERO-PLATE</text>
+  <text x="1080" y="350" class="arrow">↗</text>
+
+  <rect x="78" y="382" width="1044" height="1" fill="#242938"/>
+  <text x="78" y="404" class="footer">MODULE STATUS: LOADED ✓</text>
 </svg>
