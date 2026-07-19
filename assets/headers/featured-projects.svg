@@ -14,14 +14,20 @@
       .output { font-size:14px; font-weight:700; fill:#F472B6; }
     </style>
   </defs>
+
   <rect width="1200" height="150" fill="#0D1117"/>
-  <rect x="50" y="20" width="1100" height="112" rx="14" fill="#07060D" stroke="url(#themeGradient)" stroke-width="3"/>
-  <circle cx="75" cy="43" r="6" fill="#FF5F57"/>
-  <circle cx="97" cy="43" r="6" fill="#FFBD2E"/>
-  <circle cx="119" cy="43" r="6" fill="#28C840"/>
-  <text x="145" y="48" class="path">deepak@system:~/projects</text>
-  <circle cx="1030" cy="43" r="4" fill="#86EFAC"/>
-  <text x="1044" y="47" class="online">ONLINE</text>
-  <text x="76" y="88" class="command">$ projects --list --featured</text>
-  <text x="76" y="116" class="output">&gt; indexing repositories... 03 flagship projects detected ✓</text>
+  <rect x="0" y="20" width="1200" height="112" rx="14"
+        fill="#07060D" stroke="url(#themeGradient)" stroke-width="3"/>
+
+  <circle cx="25" cy="43" r="6" fill="#FF5F57"/>
+  <circle cx="47" cy="43" r="6" fill="#FFBD2E"/>
+  <circle cx="69" cy="43" r="6" fill="#28C840"/>
+
+  <text x="95" y="48" class="path">deepak@system:~/projects</text>
+
+  <circle cx="1080" cy="43" r="4" fill="#86EFAC"/>
+  <text x="1094" y="47" class="online">ONLINE</text>
+
+  <text x="28" y="88" class="command">$ projects --list --featured</text>
+  <text x="28" y="116" class="output">&gt; indexing repositories... 03 flagship projects detected ✓</text>
 </svg>
