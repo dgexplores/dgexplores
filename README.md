@@ -39,10 +39,9 @@
   <img
     src="./assets/initializing-profile.svg?v=10"
     alt="INITIALIZING USER PROFILE......."
-    width="50%"
+    width="60%"
   />
 </p>
-<br>
 
 <p align="center">
   <img
@@ -52,7 +51,7 @@
   />
 </p>
 
-<br><br><br>
+<br>
 
 <p align="center">
   <img
@@ -62,7 +61,6 @@
   />
 </p>
 
-<br>
 
 ### `├─[ LANGUAGES ]────────────────────────────────────────────`
 
