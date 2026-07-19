@@ -109,75 +109,45 @@
 <!-- FEATURED PROJECTS                                      -->
 <!-- ====================================================== -->
 
-<div align="left">
-
 <img
-    src="./assets/headers/featured-projects.svg?v=3"
-    alt="Featured Projects"
-    width="96%"
+  src="./assets/headers/featured-projects.svg?v=5"
+  alt="Featured Projects"
+  width="100%"
 />
-
-</div>
 
 <br>
 
-<div align="left">
+<!-- ================= PROJECT 01 ================= -->
 
 <a href="https://github.com/dgexplores/smart-chatbot">
-
-<img
-    src="./assets/projects/smart-chatbot-card.svg?v=3"
+  <img
+    src="./assets/projects/smart-chatbot-card.svg?v=5"
     alt="AI Sales Executive Platform"
-    width="96%"
-/>
-
+    width="100%"
+  />
 </a>
 
-</div>
-
-
-<div align="left">
+<!-- ================= PROJECT 02 ================= -->
 
 <a href="https://github.com/dgexplores/bank-customer-churn-scoring">
-
-<img
-    src="./assets/projects/bank-churn-card.svg?v=3"
+  <img
+    src="./assets/projects/bank-churn-card.svg?v=5"
     alt="Bank Customer Churn Scoring"
-    width="96%"
-/>
-
+    width="100%"
+  />
 </a>
 
-</div>
-
-
-<div align="left">
+<!-- ================= PROJECT 03 ================= -->
 
 <a href="https://github.com/dgexplores/ZERO-PLATE">
-
-<img
-    src="./assets/projects/zero-plate-card.svg?v=3"
+  <img
+    src="./assets/projects/zero-plate-card.svg?v=5"
     alt="ZERO-PLATE"
-    width="96%"
-/>
-
+    width="100%"
+  />
 </a>
 
-</div>
-
-<br>
-
-## 🐍 Open Source Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dgexplores&theme=tokyo-night&hide_border=true"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dgexplores&theme=tokyonight"/>
-
-</div>
-
----
+<br><br>
 
 ## 🤝 Let's Connect
 
