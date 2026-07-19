@@ -149,6 +149,32 @@
 
 <br><br>
 
+<!-- ====================================================== -->
+<!-- CONTRIBUTION ACTIVITY                                  -->
+<!-- ====================================================== -->
+<!--
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=dgexplores&bg_color=07060D&color=C084FC&title_color=FACC15&line=EC4899&point=FACC15&area=true&area_color=A855F7&hide_border=true&custom_title=CONTRIBUTION%20SIGNAL&radius=12&height=320&days=40&grid=true"
+  alt="Deepak Gangwar GitHub contribution activity graph"
+  width="100%"
+/>
+
+<br><br>
+-->
+<!-- ====================================================== -->
+<!-- GITHUB GROWTH                                          -->
+<!-- ====================================================== -->
+
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dgexplores&theme=radical"
+    alt="Deepak Gangwar GitHub growth"
+    width="100%"
+  />
+</p>
+
+<br><br>
+
 ## 🤝 Let's Connect
 
 <div align="center">
