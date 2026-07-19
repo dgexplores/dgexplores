@@ -28,32 +28,33 @@
   </defs>
 
   <rect width="1200" height="430" fill="#0D1117"/>
-  <rect x="50" y="14" width="1100" height="402" rx="14" fill="#07060D" stroke="url(#themeGradient)" stroke-width="2.5"/>
+  <rect x="0" y="14" width="1200" height="402" rx="14"
+        fill="#07060D" stroke="url(#themeGradient)" stroke-width="2.5"/>
 
-  <text x="78" y="49" class="meta">PROJECT_01</text>
-  <circle cx="995" cy="44" r="4" fill="#86EFAC"/>
-  <text x="1009" y="49" class="status">PRODUCTION READY</text>
+  <text x="28" y="49" class="meta">PROJECT_01</text>
+  <circle cx="1045" cy="44" r="4" fill="#86EFAC"/>
+  <text x="1059" y="49" class="status">PRODUCTION READY</text>
 
-  <rect x="78" y="67" width="1044" height="2" fill="url(#accentRule)"/>
+  <rect x="28" y="67" width="1144" height="2" fill="url(#accentRule)"/>
 
-  <text x="78" y="113" class="title">AI SALES EXECUTIVE PLATFORM</text>
-  <text x="78" y="143" class="subtitle">Autonomous B2B sales agent for discovery, qualification and conversion.</text>
-  <text x="78" y="175" class="category">AI • FULL STACK • EVENT DRIVEN</text>
+  <text x="28" y="113" class="title">AI SALES EXECUTIVE PLATFORM</text>
+  <text x="28" y="143" class="subtitle">Autonomous B2B sales agent for discovery, qualification and conversion.</text>
+  <text x="28" y="175" class="category">AI • FULL STACK • EVENT DRIVEN</text>
 
-  <text x="78" y="211" class="label">FEATURES</text>
-  <text x="88" y="244" class="feature">&gt; Semantic RAG</text>
-<text x="88" y="282" class="feature">&gt; CRM dashboard</text>
-<text x="88" y="320" class="feature">&gt; Dynamic pricing</text>
-<text x="88" y="358" class="feature">&gt; Meeting scheduler</text>
+  <text x="28" y="211" class="label">FEATURES</text>
+  <text x="38" y="244" class="feature">&gt; Semantic RAG</text>
+  <text x="38" y="282" class="feature">&gt; CRM dashboard</text>
+  <text x="38" y="320" class="feature">&gt; Dynamic pricing</text>
+  <text x="38" y="358" class="feature">&gt; Meeting scheduler</text>
 
-  <text x="594" y="211" class="label">STACK</text>
-  <text x="594" y="248" class="stack">React  •  Node.js  •  TypeScript  •  MongoDB  •  Gemini  •  Qdrant</text>
+  <text x="544" y="211" class="label">STACK</text>
+  <text x="544" y="248" class="stack">React  •  Node.js  •  TypeScript  •  MongoDB  •  Gemini  •  Qdrant</text>
 
-  <rect x="594" y="279" width="494" height="1" fill="#242938"/>
-  <text x="594" y="315" class="label">REPOSITORY</text>
-  <text x="594" y="350" class="repo">github.com/dgexplores/smart-chatbot</text>
-  <text x="1080" y="350" class="arrow">↗</text>
+  <rect x="544" y="279" width="578" height="1" fill="#242938"/>
+  <text x="544" y="315" class="label">REPOSITORY</text>
+  <text x="544" y="350" class="repo">github.com/dgexplores/smart-chatbot</text>
+  <text x="1130" y="350" class="arrow">↗</text>
 
-  <rect x="78" y="382" width="1044" height="1" fill="#242938"/>
-  <text x="78" y="404" class="footer">MODULE STATUS: LOADED ✓</text>
+  <rect x="28" y="382" width="1144" height="1" fill="#242938"/>
+  <text x="28" y="404" class="footer">MODULE STATUS: LOADED ✓</text>
 </svg>
