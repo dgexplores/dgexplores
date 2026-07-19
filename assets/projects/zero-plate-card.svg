@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="420" viewBox="0 0 720 420" role="img" aria-label="Zero Plate Card">
+  <rect width="720" height="420" rx="28" fill="#111827"/>
+  <rect x="32" y="32" width="656" height="356" rx="24" fill="#1f2937" stroke="#a78bfa" stroke-width="2"/>
+  <circle cx="360" cy="170" r="96" fill="#a78bfa"/>
+  <rect x="120" y="290" width="480" height="18" rx="9" fill="#4b5563"/>
+  <rect x="180" y="322" width="360" height="18" rx="9" fill="#4b5563"/>
+  <text x="188" y="368" fill="#f9fafb" font-family="Arial, sans-serif" font-size="28" font-weight="700">Zero Plate</text>
+</svg>

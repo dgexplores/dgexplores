@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="220" viewBox="0 0 1200 220" role="img" aria-label="Featured Projects">
+  <rect width="1200" height="220" rx="24" fill="#0f172a"/>
+  <rect x="32" y="32" width="1136" height="156" rx="18" fill="#111827" stroke="#38bdf8" stroke-width="2"/>
+  <text x="96" y="110" fill="#f8fafc" font-family="Arial, sans-serif" font-size="54" font-weight="700">FEATURED PROJECTS</text>
+  <text x="96" y="148" fill="#7dd3fc" font-family="Arial, sans-serif" font-size="24">Showcasing AI, fintech, and modern web solutions</text>
+</svg>
