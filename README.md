@@ -105,55 +105,67 @@
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
 <br><br>
 
-🚀 Featured Projects
+<!-- ====================================================== -->
+<!-- FEATURED PROJECTS                                      -->
+<!-- ====================================================== -->
 
-### 🛡️ AI Network Intrusion Detection System
-A real-time intrusion detection platform built using the Elastic Stack and open-source security tools.
+<div align="left">
 
-**Tech:** Docker, Suricata, Zeek, Elasticsearch, Kibana, Filebeat
-**Status:** 85% Complete
+<img
+    src="./assets/headers/featured-projects.svg?v=3"
+    alt="Featured Projects"
+    width="96%"
+/>
 
-**Features:**
-- Real-time intrusion detection
-- Live Kibana dashboards
-- Network traffic monitoring
-- Attack visualization
-- Centralized log analysis
+</div>
 
-**Repository:** Coming Soon | **Demo:** Coming Soon
+<br>
 
----
+<div align="left">
 
-### 🤖 Intelligent Observability Platform
-An AI-powered platform for monitoring applications, analyzing logs, and detecting anomalies.
+<a href="https://github.com/dgexplores/smart-chatbot">
 
-**Tech:** Python, Docker, Elasticsearch, Kibana, Machine Learning, FastAPI
-**Status:** 65% Complete
+<img
+    src="./assets/projects/smart-chatbot-card.svg?v=3"
+    alt="AI Sales Executive Platform"
+    width="96%"
+/>
 
-**Features:**
-- AI anomaly detection
-- Intelligent log analysis
-- Root cause analysis
-- Interactive dashboards
-- Cloud-native architecture
+</a>
 
-**Repository:** Coming Soon | **Demo:** Coming Soon
+</div>
 
----
 
-### 🌾 Farmer Marketplace
-A full-stack platform connecting farmers directly with buyers.
+<div align="left">
 
-**Tech:** React, Firebase, Google Maps, Authentication
-**Features:**
-- Secure Authentication
-- Real-time Chat
-- Product Listings
-- Order Management
+<a href="https://github.com/dgexplores/bank-customer-churn-scoring">
 
-**Repository:** Coming Soon | **Demo:** Coming Soon
+<img
+    src="./assets/projects/bank-churn-card.svg?v=3"
+    alt="Bank Customer Churn Scoring"
+    width="96%"
+/>
 
----
+</a>
+
+</div>
+
+
+<div align="left">
+
+<a href="https://github.com/dgexplores/ZERO-PLATE">
+
+<img
+    src="./assets/projects/zero-plate-card.svg?v=3"
+    alt="ZERO-PLATE"
+    width="96%"
+/>
+
+</a>
+
+</div>
+
+<br>
 
 ## 🐍 Open Source Activity
 
