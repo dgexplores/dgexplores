@@ -119,30 +119,50 @@
 
 <!-- ================= PROJECT 01 ================= -->
 
-<a href="https://github.com/dgexplores/smart-chatbot">
+<a href="https://github.com/dgexplores/ai-support-agent">
   <img
-    src="./assets/projects/smart-chatbot-card.svg?v=5"
-    alt="AI Sales Executive Platform"
+    src="./assets/projects/ai-support-agent-card.svg?v=1"
+    alt="Aster and Row AI Support Agent"
     width="100%"
   />
 </a>
 
 <!-- ================= PROJECT 02 ================= -->
 
-<a href="https://github.com/dgexplores/bank-customer-churn-scoring">
+<a href="https://github.com/dgexplores/hustlrzzv2">
   <img
-    src="./assets/projects/bank-churn-card.svg?v=5"
-    alt="Bank Customer Churn Scoring"
+    src="./assets/projects/hustlrzz-card.svg?v=1"
+    alt="HUSTLRZZ AI Mock Interview Coach"
     width="100%"
   />
 </a>
 
 <!-- ================= PROJECT 03 ================= -->
 
-<a href="https://github.com/dgexplores/ZERO-PLATE">
+<a href="https://github.com/dgexplores/DRONAv2">
   <img
-    src="./assets/projects/zero-plate-card.svg?v=5"
-    alt="ZERO-PLATE"
+    src="./assets/projects/dronav2-card.svg?v=1"
+    alt="SRMS Drona Learning and HR Analytics Platform"
+    width="100%"
+  />
+</a>
+
+<!-- ================= PROJECT 04 ================= -->
+
+<a href="https://github.com/dgexplores/smart-chatbot">
+  <img
+    src="./assets/projects/smart-chatbot-card.svg?v=6"
+    alt="AI Sales Executive Platform"
+    width="100%"
+  />
+</a>
+
+<!-- ================= PROJECT 05 ================= -->
+
+<a href="https://github.com/dgexplores/bank-customer-churn-scoring">
+  <img
+    src="./assets/projects/bank-churn-card.svg?v=6"
+    alt="Bank Customer Churn Scoring"
     width="100%"
   />
 </a>
