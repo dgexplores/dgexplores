@@ -170,33 +170,6 @@
 <br><br>
 
 <!-- ====================================================== -->
-<!-- ACTIVE PROJECTS                                        -->
-<!-- ====================================================== -->
-
-<img
-  src="./assets/headers/active-projects.svg?v=1"
-  alt="Active Projects"
-  width="100%"
-/>
-
-<br>
-
-```text
-┌─[ BUILDING NOW ]──────────────────────────────────────────────────────┐
-│                                                                       │
-│  ▸ bharat-data-detective                                              │
-│    Python • Data investigation & insights engine        [ IN BUILD ]  │
-│                                                                       │
-│  ▸ freelance-crm                                                      │
-│    Inbox-first pipeline CRM — AI reads your email, builds             │
-│    and runs your deal board                            [ GENAI ]      │
-│                                                                       │
-└───────────────────────────────────────────────────────────────────────┘
-```
-
-<br><br>
-
-<!-- ====================================================== -->
 <!-- CONTRIBUTION ACTIVITY                                  -->
 <!-- ====================================================== -->
 <!--
