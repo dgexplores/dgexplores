@@ -5,12 +5,13 @@
     width="100%"
   />
 </p>
-
+<!--
 <p align="center">
   <img src="./assets/lock.svg" width="75" alt="Lock" />
   &nbsp;&nbsp;
   <b>×</b>
   &nbsp;&nbsp;
+  -->
   <img src="./assets/tagline.svg" width="560" alt="Building Solutions • Exploring AI × Security" />
   &nbsp;&nbsp;
   <b>×</b>
