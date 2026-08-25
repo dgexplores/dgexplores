@@ -45,7 +45,7 @@
 
 <p align="center">
   <img
-    src="./assets/about-terminal.svg?v=1"
+    src="./assets/about-terminal.svg?v=2"
     alt="Deepak Gangwar — About"
     width="100%"
   />
