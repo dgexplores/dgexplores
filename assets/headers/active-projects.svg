@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="150" viewBox="0 0 1200 150" role="img" aria-label="Featured Projects">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="150" viewBox="0 0 1200 150" role="img" aria-label="Active Projects">
   <defs>
     <linearGradient id="themeGradient" x1="0" y1="0" x2="1" y2="0">
       <stop offset="0%" stop-color="#A855F7"/>
@@ -25,9 +25,9 @@
 
   <text x="95" y="48" class="path">deepak@system:~/projects</text>
 
-  <circle cx="1080" cy="43" r="4" fill="#86EFAC"/>
-  <text x="1094" y="47" class="online">ONLINE</text>
+  <circle cx="1080" cy="43" r="4" fill="#FACC15"/>
+  <text x="1094" y="47" class="online">BUILDING</text>
 
-  <text x="28" y="88" class="command">$ projects --list --featured</text>
-  <text x="28" y="116" class="output">&gt; indexing repositories... 05 flagship projects detected ✓</text>
+  <text x="28" y="88" class="command">$ projects --list --active</text>
+  <text x="28" y="116" class="output">&gt; 02 active builds detected ✓</text>
 </svg>
