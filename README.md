@@ -5,17 +5,23 @@
     width="100%"
   />
 </p>
-<p align="center">
-  <img src="./assets/lock.svg" width="75" alt="Lock" />
-  &nbsp;&nbsp;
-  <b>×</b>
-  &nbsp;&nbsp;
-  <img src="./assets/tagline.svg" width="560" alt="Building Solutions • Exploring AI × Security" />
-  &nbsp;&nbsp;
-  <b>×</b>
-  &nbsp;&nbsp;
-  <img src="./assets/pixel-icon.svg" width="75" alt="Pixel Icon" />
-</p>
+<div align="center">
+  <table border="0" cellpadding="0" cellspacing="0">
+    <tr>
+      <td valign="middle" align="center">
+        <img src="./assets/pixel-player-beanbag.png" width="130" alt="Player 1 — Coder Soldier" />
+        &nbsp;&nbsp;&nbsp;
+      </td>
+      <td valign="middle" align="center">
+        <img src="./assets/tagline.svg" width="500" alt="Building Solutions • Exploring AI × Security" />
+      </td>
+      <td valign="middle" align="center">
+        &nbsp;&nbsp;&nbsp;
+        <img src="./assets/pixel-player-coffee.png" width="130" alt="Coffee Time — Coder Soldier" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 <div align="center">
 
