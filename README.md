@@ -5,23 +5,13 @@
     width="100%"
   />
 </p>
-<div align="center">
-  <table border="0" cellpadding="0" cellspacing="0">
-    <tr>
-      <td valign="middle" align="center">
-        <img src="./assets/pixel-player-beanbag.png" width="130" alt="Player 1 — Coder Soldier" />
-        &nbsp;&nbsp;&nbsp;
-      </td>
-      <td valign="middle" align="center">
-        <img src="./assets/tagline.svg" width="500" alt="Building Solutions • Exploring AI × Security" />
-      </td>
-      <td valign="middle" align="center">
-        &nbsp;&nbsp;&nbsp;
-        <img src="./assets/pixel-player-coffee.png" width="130" alt="Coffee Time — Coder Soldier" />
-      </td>
-    </tr>
-  </table>
-</div>
+<p align="center">
+  <img src="./assets/pixel-player-beanbag.png" width="130" align="middle" alt="Player 1 — Coder Soldier" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="./assets/tagline.svg" width="500" align="middle" alt="Building Solutions • Exploring AI × Security" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="./assets/pixel-player-coffee.png" width="130" align="middle" alt="Coffee Time — Coder Soldier" />
+</p>
 
 <div align="center">
 
