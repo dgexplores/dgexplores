@@ -114,6 +114,16 @@
 
 <!-- ================= PROJECT 01 ================= -->
 
+<a href="https://github.com/dgexplores/aegis-gateway">
+  <img
+    src="./assets/projects/aegis-gateway-card.svg?v=1"
+    alt="AEGIS AI Gateway"
+    width="100%"
+  />
+</a>
+
+<!-- ================= PROJECT 02 ================= -->
+
 <a href="https://github.com/dgexplores/ai-support-agent">
   <img
     src="./assets/projects/ai-support-agent-card.svg?v=1"
@@ -122,9 +132,9 @@
   />
 </a>
 
-<!-- ================= PROJECT 02 ================= -->
+<!-- ================= PROJECT 03 ================= -->
 
-<a href="https://github.com/dgexplores/hustlrzzv2">
+<a href="https://github.com/dgexplores/hustlrzz">
   <img
     src="./assets/projects/hustlrzz-card.svg?v=1"
     alt="HUSTLRZZ AI Mock Interview Coach"
@@ -132,9 +142,9 @@
   />
 </a>
 
-<!-- ================= PROJECT 03 ================= -->
+<!-- ================= PROJECT 04 ================= -->
 
-<a href="https://github.com/dgexplores/DRONAv2">
+<a href="https://github.com/dgexplores/DRONA">
   <img
     src="./assets/projects/dronav2-card.svg?v=1"
     alt="SRMS Drona Learning and HR Analytics Platform"
@@ -142,7 +152,7 @@
   />
 </a>
 
-<!-- ================= PROJECT 04 ================= -->
+<!-- ================= PROJECT 05 ================= -->
 
 <a href="https://github.com/dgexplores/smart-chatbot">
   <img
@@ -152,7 +162,7 @@
   />
 </a>
 
-<!-- ================= PROJECT 05 ================= -->
+<!-- ================= PROJECT 06 ================= -->
 
 <a href="https://github.com/dgexplores/bank-customer-churn-scoring">
   <img

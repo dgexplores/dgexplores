@@ -31,7 +31,7 @@
   <rect x="0" y="14" width="1200" height="402" rx="14"
         fill="#07060D" stroke="url(#themeGradient)" stroke-width="2.5"/>
 
-  <text x="28" y="49" class="meta">PROJECT_03</text>
+  <text x="28" y="49" class="meta">PROJECT_04</text>
   <circle cx="1045" cy="44" r="4" fill="#86EFAC"/>
   <text x="1059" y="49" class="status">LIVE IN PRODUCTION</text>
 
