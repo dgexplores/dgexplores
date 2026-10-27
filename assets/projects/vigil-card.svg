@@ -32,7 +32,7 @@
         fill="#07060D" stroke="url(#themeGradient)" stroke-width="2.5"/>
 
   <text x="28" y="49" class="meta">PROJECT_03</text>
-  
+
   <text x="1172" y="49" text-anchor="end" class="status">SYNTHETIC BANK DEMO</text>
 
   <rect x="28" y="67" width="1144" height="2" fill="url(#accentRule)"/>
