@@ -1,6 +1,6 @@
 <p align="center">
   <img
-    src="./assets/deepak-gangwar.svg"
+    src="./assets/deepak-gangwar.svg?v=motion-2"
     alt="Deepak Gangwar"
     width="100%"
   />
@@ -32,7 +32,7 @@
 <br>
 <p align="left">
   <img
-    src="./assets/initializing-profile.svg?v=10"
+    src="./assets/initializing-profile.svg?v=motion-2"
     alt="INITIALIZING USER PROFILE......."
     width="60%"
   />

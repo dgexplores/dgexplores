@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg"
      width="1700"
-     height="105"
-     viewBox="0 0 1700 105">
+     height="172"
+     viewBox="0 0 1700 172">
 
   <defs>
     <linearGradient id="cyberGradient"
@@ -22,6 +22,17 @@
       font-weight: bold;
       white-space: pre;
     }
+    .boot-progress { transform-origin: 0 0; animation: boot-load 2.8s ease-out both; }
+    .boot-loading { animation: boot-loading 2.8s step-end both; }
+    .boot-ready { animation: boot-ready 2.8s step-end both; }
+    .boot-label { font-family: "Courier New", monospace; font-size: 40px; font-weight: bold; }
+    @keyframes boot-load { 0% {transform:scaleX(0.02)} 35% {transform:scaleX(0.36)} 70% {transform:scaleX(0.72)} 100% {transform:scaleX(1)} }
+    @keyframes boot-loading { 0% {opacity:1} 100% {opacity:0} }
+    @keyframes boot-ready { 0% {opacity:0} 100% {opacity:1} }
+    @media (prefers-reduced-motion: reduce) {
+      .boot-progress, .boot-loading, .boot-ready { animation:none; }
+      .boot-loading {opacity:0} .boot-ready {opacity:1}
+    }
   </style>
 
   <text x="0" y="12" class="ascii">
@@ -39,4 +50,8 @@
     <tspan x="0" dy="16">╚═╝╚═╝  ╚═══╝╚═╝   ╚═╝   ╚═╝╚═╝  ╚═╝╚══════╝╚═╝╚══════╝╚═╝╚═╝  ╚═══╝ ╚═════╝      ╚═════╝ ╚══════╝╚══════╝╚═╝  ╚═╝    ╚═╝     ╚═╝  ╚═╝ ╚═════╝ ╚═╝     ╚═╝╚══════╝╚══════╝  ╚═╝ ╚═╝ ╚═╝ ╚═╝ ╚═╝ ╚═╝ ╚═╝</tspan>
 
   </text>
+  <rect x="0" y="107" width="1690" height="4" rx="2" fill="#2A1A19"/>
+  <rect class="boot-progress" x="0" y="107" width="1690" height="4" rx="2" fill="url(#cyberGradient)"/>
+  <text class="boot-label boot-loading" x="0" y="159" fill="#FFB000">&gt; loading profile...</text>
+  <text class="boot-label boot-ready" x="0" y="159" fill="#86EFAC">&gt; profile loaded. welcome to my workspace.</text>
 </svg>

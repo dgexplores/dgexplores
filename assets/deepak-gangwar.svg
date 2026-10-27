@@ -3,6 +3,21 @@
      width="1200"
      height="130">
 
+  <defs>
+    <linearGradient id="sweep-light">
+      <stop stop-color="#FACC15" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#FFE4FA" stop-opacity="0.9"/>
+      <stop offset="1" stop-color="#FACC15" stop-opacity="0"/>
+    </linearGradient>
+    <clipPath id="name-letters">  <text class="ascii" x="600" y="18">
+    <tspan x="600" dy="0">██████╗ ███████╗███████╗██████╗  █████╗ ██╗  ██╗     ██████╗  █████╗ ███╗   ██╗ ██████╗ ██╗    ██╗ █████╗ ██████╗</tspan>
+    <tspan x="600" dy="19">██╔══██╗██╔════╝██╔════╝██╔══██╗██╔══██╗██║ ██╔╝    ██╔════╝ ██╔══██╗████╗  ██║██╔════╝ ██║    ██║██╔══██╗██╔══██╗</tspan>
+    <tspan x="600" dy="19">██║  ██║█████╗  █████╗  ██████╔╝███████║█████╔╝     ██║  ███╗███████║██╔██╗ ██║██║  ███╗██║ █╗ ██║███████║██████╔╝</tspan>
+    <tspan x="600" dy="19">██║  ██║██╔══╝  ██╔══╝  ██╔═══╝ ██╔══██║██╔═██╗     ██║   ██║██╔══██║██║╚██╗██║██║   ██║██║███╗██║██╔══██║██╔══██╗</tspan>
+    <tspan x="600" dy="19">██████╔╝███████╗███████╗██║     ██║  ██║██║  ██╗    ╚██████╔╝██║  ██║██║ ╚████║╚██████╔╝╚███╔███╔╝██║  ██║██║  ██║</tspan>
+    <tspan x="600" dy="19">╚═════╝ ╚══════╝╚══════╝╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝     ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═══╝ ╚═════╝  ╚══╝╚══╝ ╚═╝  ╚═╝╚═╝  ╚═╝</tspan>
+  </text></clipPath>
+  </defs>
   <style>
     .ascii {
       fill: #A855F7;
@@ -12,13 +27,13 @@
       text-anchor: middle;
       white-space: pre;
     }
-    .ascii { animation: terminal-color 9s ease-in-out infinite; }
-    @keyframes terminal-color {
-      0%, 100% { fill: #A855F7; }
-      50% { fill: #EC4899; }
+    .name-sweep { animation: light-sweep 10s ease-in-out infinite; }
+    @keyframes light-sweep {
+      0% { transform: translateX(0); }
+      35%, 100% { transform: translateX(1800px); }
     }
     @media (prefers-reduced-motion: reduce) {
-      .ascii { animation: none; }
+      .name-sweep { animation: none; opacity: 0; }
     }
   </style>
 
@@ -31,4 +46,7 @@
     <tspan x="600" dy="19">╚═════╝ ╚══════╝╚══════╝╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝     ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═══╝ ╚═════╝  ╚══╝╚══╝ ╚═╝  ╚═╝╚═╝  ╚═╝</tspan>
   </text>
 
+  <g clip-path="url(#name-letters)">
+    <rect class="name-sweep" x="-600" y="0" width="600" height="130" fill="url(#sweep-light)"/>
+  </g>
 </svg>
