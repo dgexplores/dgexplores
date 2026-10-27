@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="430" viewBox="0 0 1200 430" role="img" aria-label="HUSTLRZZ AI MOCK INTERVIEWER">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="430" viewBox="0 0 1200 430" role="img" aria-label="HUSTLRZZ — AI MOCK INTERVIEW COACH">
   <defs>
     <linearGradient id="themeGradient" x1="0" y1="0" x2="1" y2="0">
       <stop offset="0%" stop-color="#A855F7"/>
@@ -7,13 +7,13 @@
       <stop offset="100%" stop-color="#FACC15"/>
     </linearGradient>
     <linearGradient id="accentRule" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%" stop-color="#FACC15"/>
-      <stop offset="55%" stop-color="#FACC15" stop-opacity=".55"/>
-      <stop offset="100%" stop-color="#FACC15" stop-opacity="0"/>
+      <stop offset="0%" stop-color="#A855F7"/>
+      <stop offset="55%" stop-color="#A855F7" stop-opacity=".55"/>
+      <stop offset="100%" stop-color="#A855F7" stop-opacity="0"/>
     </linearGradient>
     <style>
       text { font-family: "Courier New", monospace; }
-      .meta { font-size:13px; font-weight:800; letter-spacing:1px; fill:#FACC15; }
+      .meta { font-size:13px; font-weight:800; letter-spacing:1px; fill:#A855F7; }
       .status { font-size:11px; font-weight:800; letter-spacing:1px; fill:#86EFAC; }
       .title { font-size:28px; font-weight:900; fill:#F8FAFC; }
       .subtitle { font-size:15px; fill:#AAB2C0; }
@@ -23,7 +23,7 @@
       .stack { font-size:14px; font-weight:700; fill:#C084FC; }
       .repo { font-size:13px; font-weight:800; fill:#F97316; }
       .arrow { font-size:21px; font-weight:900; fill:#FACC15; }
-      .footer { font-size:12px; font-weight:800; fill:#FACC15; }
+      .footer { font-size:12px; font-weight:800; fill:#A855F7; }
     </style>
   </defs>
 
@@ -31,30 +31,32 @@
   <rect x="0" y="14" width="1200" height="402" rx="14"
         fill="#07060D" stroke="url(#themeGradient)" stroke-width="2.5"/>
 
-  <text x="28" y="49" class="meta">PROJECT_03</text>
-  <circle cx="1045" cy="44" r="4" fill="#86EFAC"/>
-  <text x="1059" y="49" class="status">LIVE IN PRODUCTION</text>
+  <text x="28" y="49" class="meta">PROJECT_04</text>
+  
+  <text x="1172" y="49" text-anchor="end" class="status">LIVE DEMO</text>
 
   <rect x="28" y="67" width="1144" height="2" fill="url(#accentRule)"/>
 
   <text x="28" y="113" class="title">HUSTLRZZ — AI MOCK INTERVIEW COACH</text>
-  <text x="28" y="143" class="subtitle">Resume-driven mock interviews with a live AI interviewer and actionable feedback reports.</text>
+  <text x="28" y="143" class="subtitle">Resume / JD preparation, text and voice practice, retrieval and saved coaching reports.</text>
   <text x="28" y="175" class="category">GENAI • CONVERSATIONAL AI • FULL-STACK</text>
 
   <text x="28" y="211" class="label">FEATURES</text>
-  <text x="38" y="244" class="feature">&gt; Personalized practice plans from resume + JD</text>
-  <text x="38" y="282" class="feature">&gt; Real-time conversational probing</text>
-  <text x="38" y="320" class="feature">&gt; Delivery + confidence feedback report</text>
-  <text x="38" y="358" class="feature">&gt; Deployed end-to-end (Vercel + Railway)</text>
+  <text x="38" y="244" class="feature">&gt; Resume / JD-based interview preparation</text>
+  <text x="38" y="282" class="feature">&gt; User-scoped retrieval and AI failover</text>
+  <text x="38" y="320" class="feature">&gt; Text interviews with saved AI scoring</text>
+  <text x="38" y="358" class="feature">&gt; Browser-local posture and gaze cues</text>
 
   <text x="544" y="211" class="label">STACK</text>
-  <text x="544" y="248" class="stack">TypeScript  •  GenAI  •  Node.js  •  Vercel + Railway</text>
+  <text x="544" y="248" class="stack">Next.js • TypeScript • FastAPI</text>
+
+  <text x="544" y="269" class="stack">Supabase • Vercel + Render</text>
 
   <rect x="544" y="279" width="578" height="1" fill="#242938"/>
   <text x="544" y="315" class="label">REPOSITORY</text>
-  <text x="544" y="350" class="repo">github.com/dgexplores/hustlrzzv2</text>
+  <text x="544" y="350" class="repo">github.com/dgexplores/hustlrzz</text>
   <text x="1130" y="350" class="arrow">↗</text>
 
   <rect x="28" y="382" width="1144" height="1" fill="#242938"/>
-  <text x="28" y="404" class="footer">MODULE STATUS: LOADED ✓</text>
+  <text x="28" y="404" class="footer">FINAL-YEAR TEAM PROJECT: text flow checked; voice and camera need rehearsal.</text>
 </svg>

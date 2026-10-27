@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="660" viewBox="0 0 800 660" role="img" aria-label="ASTER &amp; ROW — AI SUPPORT AGENT">
+<defs>
+    <linearGradient id="themeGradient" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#A855F7"/>
+      <stop offset="34%" stop-color="#EC4899"/>
+      <stop offset="68%" stop-color="#F97316"/>
+      <stop offset="100%" stop-color="#FACC15"/>
+    </linearGradient>
+    <linearGradient id="accentRule" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#A855F7"/>
+      <stop offset="55%" stop-color="#A855F7" stop-opacity=".55"/>
+      <stop offset="100%" stop-color="#A855F7" stop-opacity="0"/>
+    </linearGradient>
+    <style>
+      text { font-family: "Courier New", monospace; }
+      .meta { font-size:13px; font-weight:800; letter-spacing:1px; fill:#A855F7; }
+      .status { font-size:11px; font-weight:800; letter-spacing:1px; fill:#86EFAC; }
+      .title { font-size:28px; font-weight:900; fill:#F8FAFC; }
+      .subtitle { font-size:15px; fill:#AAB2C0; }
+      .category { font-size:12px; font-weight:800; letter-spacing:1px; fill:#F472B6; }
+      .label { font-size:12px; font-weight:800; letter-spacing:1px; fill:#FACC15; }
+      .feature { font-size:15px; font-weight:700; fill:#D7DCE5; }
+      .stack { font-size:14px; font-weight:700; fill:#C084FC; }
+      .repo { font-size:13px; font-weight:800; fill:#F97316; }
+      .arrow { font-size:21px; font-weight:900; fill:#FACC15; }
+      .footer { font-size:12px; font-weight:800; fill:#A855F7; }
+    </style>
+  </defs>
+<style>.meta{font-size:15px}.status{font-size:13px}.title{font-size:26px}.subtitle{font-size:18px}.category{font-size:13px}.label{font-size:14px}.feature{font-size:20px}.stack{font-size:18px}.repo{font-size:17px}.footer{font-size:15px}</style>
+ <rect width="800" height="660" fill="#0D1117"/>
+ <rect x="2" y="14" width="796" height="632" rx="14" fill="#07060D" stroke="url(#themeGradient)" stroke-width="2.5"/>
+ <rect x="28" y="67" width="744" height="2" fill="url(#accentRule)"/>
+<text x="28" y="49" class="meta" >PROJECT_06</text>
+<text x="772" y="49" class="status" text-anchor="end">RUNNABLE PROTOTYPE</text>
+<text x="28" y="113" class="title" >ASTER &amp; ROW — AI SUPPORT AGENT</text>
+<text x="28" y="145" class="subtitle" >Retrieval-based support for a fictional retailer, with policy and</text>
+<text x="28" y="171" class="subtitle" >data-quality checks.</text>
+<text x="28" y="207" class="category" >RAG • LLM AGENT • TRUST &amp; SAFETY</text>
+<text x="28" y="246" class="label" >FEATURES</text>
+<text x="38" y="278" class="feature" >&gt; Retrieval with source-linked answers</text>
+<text x="38" y="310" class="feature" >&gt; Prompt-injection and privacy checks</text>
+<text x="38" y="342" class="feature" >&gt; Conflicting-policy handling</text>
+<text x="38" y="374" class="feature" >&gt; Order lookup and human handoff</text>
+<text x="28" y="418" class="label" >STACK</text>
+<text x="28" y="449" class="stack" >Python • FastAPI • ChromaDB</text>
+<text x="28" y="475" class="stack" >Groq: openai/gpt-oss-120b</text>
+<text x="28" y="519" class="label" >REPOSITORY</text>
+<text x="28" y="550" class="repo" >github.com/dgexplores/ai-support-agent</text>
+<text x="748" y="550" class="arrow" >↗</text>
+<rect x="28" y="580" width="744" height="1" fill="#242938"/>
+<text x="28" y="608" class="footer" >DEMO SCOPE: local application, CLI and recorded walkthrough; no hosted</text>
+<text x="28" y="631" class="footer" >verification.</text>
+</svg>

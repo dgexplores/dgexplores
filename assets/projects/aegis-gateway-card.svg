@@ -32,23 +32,25 @@
         fill="#07060D" stroke="url(#themeGradient)" stroke-width="2.5"/>
 
   <text x="28" y="49" class="meta">PROJECT_01</text>
-  <circle cx="1045" cy="44" r="4" fill="#86EFAC"/>
-  <text x="1059" y="49" class="status">LIVE DEMO</text>
+  
+  <text x="1172" y="49" text-anchor="end" class="status">LIVE CONTROLS DEMO</text>
 
   <rect x="28" y="67" width="1144" height="2" fill="url(#accentRule)"/>
 
   <text x="28" y="113" class="title">AEGIS AI GATEWAY</text>
-  <text x="28" y="143" class="subtitle">Tamper-evident gateway: every AI answer with proof.</text>
+  <text x="28" y="143" class="subtitle">AI gateway with tenant controls, request screening and verifiable audit records.</text>
   <text x="28" y="175" class="category">AI SECURITY • BACKEND • DEVOPS</text>
 
   <text x="28" y="211" class="label">FEATURES</text>
-  <text x="38" y="244" class="feature">&gt; Injection defense</text>
-  <text x="38" y="282" class="feature">&gt; PII vault</text>
-  <text x="38" y="320" class="feature">&gt; Cited RAG</text>
-  <text x="38" y="358" class="feature">&gt; Signed audit chain</text>
+  <text x="38" y="244" class="feature">&gt; Tenant-scoped retrieval and controls</text>
+  <text x="38" y="282" class="feature">&gt; Recognized-PII masking</text>
+  <text x="38" y="320" class="feature">&gt; Provider fallback and failure handling</text>
+  <text x="38" y="358" class="feature">&gt; HMAC-linked audit records</text>
 
   <text x="544" y="211" class="label">STACK</text>
-  <text x="544" y="248" class="stack">Python  •  FastAPI  •  Redis  •  Postgres  •  Docker  •  K8s</text>
+  <text x="544" y="248" class="stack">Python • FastAPI • Redis • PostgreSQL</text>
+
+  <text x="544" y="269" class="stack">Docker • GitHub Actions</text>
 
   <rect x="544" y="279" width="578" height="1" fill="#242938"/>
   <text x="544" y="315" class="label">REPOSITORY</text>
@@ -56,5 +58,5 @@
   <text x="1130" y="350" class="arrow">↗</text>
 
   <rect x="28" y="382" width="1144" height="1" fill="#242938"/>
-  <text x="28" y="404" class="footer">MODULE STATUS: LOADED ✓</text>
+  <text x="28" y="404" class="footer">DEMO SCOPE: deterministic echo provider; model quality is not demonstrated.</text>
 </svg>

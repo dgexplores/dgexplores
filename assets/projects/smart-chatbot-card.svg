@@ -31,24 +31,26 @@
   <rect x="0" y="14" width="1200" height="402" rx="14"
         fill="#07060D" stroke="url(#themeGradient)" stroke-width="2.5"/>
 
-  <text x="28" y="49" class="meta">PROJECT_05</text>
-  <circle cx="1045" cy="44" r="4" fill="#86EFAC"/>
-  <text x="1059" y="49" class="status">PRODUCTION READY</text>
+  <text x="28" y="49" class="meta">PROJECT_07</text>
+  
+  <text x="1172" y="49" text-anchor="end" class="status">FUNCTIONAL PROTOTYPE</text>
 
   <rect x="28" y="67" width="1144" height="2" fill="url(#accentRule)"/>
 
   <text x="28" y="113" class="title">AI SALES EXECUTIVE PLATFORM</text>
-  <text x="28" y="143" class="subtitle">Autonomous B2B sales agent for discovery, qualification and conversion.</text>
-  <text x="28" y="175" class="category">AI • FULL STACK • EVENT DRIVEN</text>
+  <text x="28" y="143" class="subtitle">Pre-sales qualification workflow with retrieval, a CRM interface and human handoff.</text>
+  <text x="28" y="175" class="category">INTERNSHIP SHOWCASE • FULL-STACK • EVENT-DRIVEN</text>
 
   <text x="28" y="211" class="label">FEATURES</text>
-  <text x="38" y="244" class="feature">&gt; Semantic RAG</text>
-  <text x="38" y="282" class="feature">&gt; CRM dashboard</text>
-  <text x="38" y="320" class="feature">&gt; Dynamic pricing</text>
-  <text x="38" y="358" class="feature">&gt; Meeting scheduler</text>
+  <text x="38" y="244" class="feature">&gt; Gemini-assisted lead qualification</text>
+  <text x="38" y="282" class="feature">&gt; Qdrant retrieval and fallback context</text>
+  <text x="38" y="320" class="feature">&gt; Rate-card pricing and CRM workflow</text>
+  <text x="38" y="358" class="feature">&gt; Callback scheduling and human handoff</text>
 
   <text x="544" y="211" class="label">STACK</text>
-  <text x="544" y="248" class="stack">React  •  Node.js  •  TypeScript  •  MongoDB  •  Gemini  •  Qdrant</text>
+  <text x="544" y="248" class="stack">React • TypeScript • Node.js</text>
+
+  <text x="544" y="269" class="stack">MongoDB • Gemini • Qdrant</text>
 
   <rect x="544" y="279" width="578" height="1" fill="#242938"/>
   <text x="544" y="315" class="label">REPOSITORY</text>
@@ -56,5 +58,5 @@
   <text x="1130" y="350" class="arrow">↗</text>
 
   <rect x="28" y="382" width="1144" height="1" fill="#242938"/>
-  <text x="28" y="404" class="footer">MODULE STATUS: LOADED ✓</text>
+  <text x="28" y="404" class="footer">CONTRIBUTION: internship prototype / refinement; public showcase is UI-only.</text>
 </svg>

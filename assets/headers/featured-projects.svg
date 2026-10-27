@@ -29,5 +29,5 @@
   <text x="1094" y="47" class="online">ONLINE</text>
 
   <text x="28" y="88" class="command">$ projects --list --featured</text>
-  <text x="28" y="116" class="output">&gt; indexing repositories... 05 flagship projects detected ✓</text>
+  <text x="28" y="116" class="output">&gt; indexing repositories... 08 featured projects detected ✓</text>
 </svg>

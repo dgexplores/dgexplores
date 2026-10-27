@@ -7,13 +7,13 @@
       <stop offset="100%" stop-color="#FACC15"/>
     </linearGradient>
     <linearGradient id="accentRule" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%" stop-color="#F97316"/>
-      <stop offset="55%" stop-color="#F97316" stop-opacity=".55"/>
-      <stop offset="100%" stop-color="#F97316" stop-opacity="0"/>
+      <stop offset="0%" stop-color="#A855F7"/>
+      <stop offset="55%" stop-color="#A855F7" stop-opacity=".55"/>
+      <stop offset="100%" stop-color="#A855F7" stop-opacity="0"/>
     </linearGradient>
     <style>
       text { font-family: "Courier New", monospace; }
-      .meta { font-size:13px; font-weight:800; letter-spacing:1px; fill:#F97316; }
+      .meta { font-size:13px; font-weight:800; letter-spacing:1px; fill:#A855F7; }
       .status { font-size:11px; font-weight:800; letter-spacing:1px; fill:#86EFAC; }
       .title { font-size:28px; font-weight:900; fill:#F8FAFC; }
       .subtitle { font-size:15px; fill:#AAB2C0; }
@@ -23,7 +23,7 @@
       .stack { font-size:14px; font-weight:700; fill:#C084FC; }
       .repo { font-size:13px; font-weight:800; fill:#F97316; }
       .arrow { font-size:21px; font-weight:900; fill:#FACC15; }
-      .footer { font-size:12px; font-weight:800; fill:#F97316; }
+      .footer { font-size:12px; font-weight:800; fill:#A855F7; }
     </style>
   </defs>
 
@@ -31,24 +31,26 @@
   <rect x="0" y="14" width="1200" height="402" rx="14"
         fill="#07060D" stroke="url(#themeGradient)" stroke-width="2.5"/>
 
-  <text x="28" y="49" class="meta">PROJECT_06</text>
-  <circle cx="1045" cy="44" r="4" fill="#86EFAC"/>
-  <text x="1059" y="49" class="status">EXPLAINABLE AI</text>
+  <text x="28" y="49" class="meta">PROJECT_08</text>
+  
+  <text x="1172" y="49" text-anchor="end" class="status">EXPLAINABLE ML DEMO</text>
 
   <rect x="28" y="67" width="1144" height="2" fill="url(#accentRule)"/>
 
   <text x="28" y="113" class="title">BANK CUSTOMER CHURN SCORING</text>
-  <text x="28" y="143" class="subtitle">Predictive scoring system that explains churn risk and simulates outcomes.</text>
+  <text x="28" y="143" class="subtitle">Predictive churn scoring with model comparison, SHAP explanations and what-if analysis.</text>
   <text x="28" y="175" class="category">MACHINE LEARNING • ANALYTICS</text>
 
   <text x="28" y="211" class="label">FEATURES</text>
-  <text x="38" y="244" class="feature">&gt; Risk scoring</text>
-  <text x="38" y="282" class="feature">&gt; SHAP explanations</text>
-  <text x="38" y="320" class="feature">&gt; Scenario simulation</text>
-  <text x="38" y="358" class="feature">&gt; Interactive dashboard</text>
+  <text x="38" y="244" class="feature">&gt; Cross-validated model comparison</text>
+  <text x="38" y="282" class="feature">&gt; Retention threshold tuning</text>
+  <text x="38" y="320" class="feature">&gt; SHAP feature explanations</text>
+  <text x="38" y="358" class="feature">&gt; Interactive what-if dashboard</text>
 
   <text x="544" y="211" class="label">STACK</text>
-  <text x="544" y="248" class="stack">Python  •  Streamlit  •  Scikit-learn  •  XGBoost  •  SHAP</text>
+  <text x="544" y="248" class="stack">Python • scikit-learn • XGBoost</text>
+
+  <text x="544" y="269" class="stack">SHAP • Streamlit • Render</text>
 
   <rect x="544" y="279" width="578" height="1" fill="#242938"/>
   <text x="544" y="315" class="label">REPOSITORY</text>
@@ -56,5 +58,5 @@
   <text x="1130" y="350" class="arrow">↗</text>
 
   <rect x="28" y="382" width="1144" height="1" fill="#242938"/>
-  <text x="28" y="404" class="footer">MODULE STATUS: LOADED ✓</text>
+  <text x="28" y="404" class="footer">EVALUATION SCOPE: bank dataset and offline model results; not a live banking system.</text>
 </svg>
