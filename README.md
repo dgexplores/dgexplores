@@ -26,3 +26,14 @@ I build AI applications with retrieval, structured model outputs, access control
 - **Delivery:** Docker, GitHub Actions, deployment verification, regression tests, and reproducible demonstrations.
 
 Each repository documents its setup, architecture, validation, contribution scope, and known limitations. Upstream adaptations and team work are identified in their project documentation.
+
+## Contributions
+
+<img src="assets/headers/contributions.svg" alt="Terminal: contributions --play space-shooter" width="100%" />
+
+<picture>
+  <source media="(prefers-reduced-motion: reduce)" srcset="assets/space-shooter-static.png" />
+  <img src="assets/space-shooter.gif" alt="My GitHub contributions as a purple, pink, orange, and yellow Space Shooter animation" width="100%" />
+</picture>
+
+<sub>Built from my GitHub contributions · refreshed daily with GitHub Actions · powered by [gh-space-shooter](https://github.com/czl9707/gh-space-shooter).</sub>
