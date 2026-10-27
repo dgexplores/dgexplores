@@ -39,6 +39,11 @@
       font-weight: bold;
       fill: #F472B6;
     }
+    .terminal-cursor { animation: cursor-blink 1.2s step-end infinite; }
+    @keyframes cursor-blink { 50% { opacity: 0; } }
+    @media (prefers-reduced-motion: reduce) {
+      .terminal-cursor { animation: none; }
+    }
   </style>
 
   <!-- TERMINAL BACKGROUND -->
@@ -80,6 +85,9 @@
   <text x="30" y="228" class="text">
     and learn from both.
   </text>
+
+  <!-- Cursor follows the existing command without moving the text. -->
+  <rect class="terminal-cursor" x="134" y="78" width="11" height="21" fill="#FACC15"/>
 
   <!-- CURRENT FOCUS -->
   <text x="30" y="285" class="section">
