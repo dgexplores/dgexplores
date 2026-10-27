@@ -181,9 +181,10 @@
 [Open the verified demo guide](https://interview-161-118-164-31.sslip.io/) for project links, checked journeys and limitations.
 
 - **[NeuroAgent](https://neuro-161-118-164-31.sslip.io/):** hosted CI and Oracle release passed; 181 backend tests passed. A fresh fictional Gemini response, saved-case retrieval and owner isolation were verified. Extends an upstream project.
-- **[Hustlrzz](https://hustlrzz.vercel.app/):** restored and checked through sign-in, resume indexing, role-fit analysis and a text interview with saved AI scoring. Team project; voice/camera behavior needs rehearsal.
-- **[AEGIS](https://aegis-gateway-free.onrender.com/dashboard):** retrieval and safety demonstrations use the echo provider.
+- **[Hustlrzz](https://hustlrzz.vercel.app/):** restored and checked through sign-in, resume indexing, role-fit analysis and a text interview with saved AI scoring. Team project; synthetic camera, posture-model loading and camera cleanup passed. Physical speech input/output still needs rehearsal.
+- **[AEGIS](https://aegis-gateway-free.onrender.com/dashboard):** live Gemini policy answers, privacy masking and injection refusal verified. The console labels echo fallback explicitly.
 - **[Vigil](https://vigil-161-118-164-31.sslip.io/login):** fictional bank login and database safeguards verified. Extends upstream Vigil and Bank of Anthos.
+- **[Aster & Row](https://aster-161-118-164-31.sslip.io/):** bounded fictional support demo; real cited policy answer and order lookup verified, with session isolation and request limits.
 
 Free hosting and model quotas can affect availability. The guide records the verification boundaries.
 
