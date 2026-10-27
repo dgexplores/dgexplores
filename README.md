@@ -1,28 +1,217 @@
-# Deepak Gangwar
+<p align="center">
+  <img
+    src="./assets/deepak-gangwar.svg"
+    alt="Deepak Gangwar"
+    width="100%"
+  />
+</p>
+<p align="center">
+  <img src="./assets/pixel-player-beanbag.png" width="130" align="middle" alt="Player 1 — Coder Soldier" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="./assets/tagline.svg" width="500" align="middle" alt="Building Solutions • Exploring AI × Security" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="./assets/pixel-player-coffee.png" width="130" align="middle" alt="Coffee Time — Coder Soldier" />
+</p>
 
-Python · GenAI applications · Backend engineering
+<div align="center">
 
-I build AI applications with retrieval, structured model outputs, access controls, and testable backend workflows. My projects cover AI gateways, interview coaching, and durable agent workflows.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/deepak-gangwar-1231033b5/)
+[![Threads](https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white)](https://www.threads.com/@deepakg.one)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/notdeepakg)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/deepakg.one/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail)](mailto:gangwardeepak7878@gmail.com)
 
-[Project demos and verification status](https://interview-161-118-164-31.sslip.io/) · [LinkedIn](https://www.linkedin.com/in/deepak-gangwar-1231033b5/) · [Email](mailto:gangwardeepak7878@gmail.com)
+<img src="https://komarev.com/ghpvc/?username=dgexplores&style=for-the-badge&color=blueviolet"/>
 
-## Selected projects
+</div>
 
-| Project | Engineering focus | Explore |
-| --- | --- | --- |
-| [AEGIS](https://github.com/dgexplores/aegis-gateway) | Tenant-aware AI gateway: retrieval, privacy masking, provider routing, and HMAC-linked audit records. The public demo uses an echo provider to demonstrate controls. | [Controls demo](https://aegis-gateway-free.onrender.com/dashboard) |
-| [NeuroAgent](https://github.com/dgexplores/neuro-agent) | Educational AI assessment workflow: structured Gemini responses, JWT-scoped case storage, and a bounded fictional example. Extends an upstream project. | [Fictional example](https://neuro-161-118-164-31.sslip.io/) |
-| [Vigil](https://github.com/dgexplores/vigil) | Banking agent workflow: persistent outbox, retries and deduplication, investigation, and PostgreSQL account locks. Extends upstream Vigil and Bank of Anthos. | [Fictional bank](https://vigil-161-118-164-31.sslip.io/login) |
-| [Hustlrzz](https://github.com/dgexplores/hustlrzz) | Team-built interview coach with text/voice practice, retrieval, provider failover, and browser-local presence analysis. | [Application](https://hustlrzz.vercel.app/) |
-| [BloomPulse](https://github.com/dgexplores/hyperbloom-bloompulse) | Sensor anomaly analysis with Isolation Forest, physics checks, and cited maintenance guidance. Evaluation fixtures are synthetic. | [Keyless sample](https://hyperbloom-bloompulse.vercel.app/?demo=failing) |
-| [DRONA](https://github.com/dgexplores/DRONA) | Django learning platform with staff/manager workflows, quizzes, progress tracking, and verifiable certificates. | [Application](https://dronav2.onrender.com/) |
+<p align="center">
+  <img src="./assets/github.gif" alt="Cyberpunk Developer Setup" width="100%" />
+</p>
 
-**Current demo limits:** Hustlrzz's restored deployment has passed authenticated role-fit analysis, resume indexing, and a bounded text interview with saved AI scoring. NeuroAgent's public example works; hosted backend CI remains under investigation. Free hosting and model quotas can affect availability. The [demo guide](https://interview-161-118-164-31.sslip.io/) records the checked journeys and limitations.
+<br>
+<p align="left">
+  <img
+    src="./assets/initializing-profile.svg?v=10"
+    alt="INITIALIZING USER PROFILE......."
+    width="60%"
+  />
+</p>
 
-## Technical focus
+<p align="center">
+  <img
+    src="./assets/about-terminal.svg?v=2"
+    alt="Deepak Gangwar — About"
+    width="100%"
+  />
+</p>
 
-- **AI applications:** retrieval pipelines, source citations, structured outputs, provider integration, and evaluation boundaries.
-- **Backend systems:** Python, FastAPI, Django, PostgreSQL, SQLite, authentication, and durable workflows.
-- **Delivery:** Docker, GitHub Actions, deployment verification, regression tests, and reproducible demonstrations.
+<br>
 
-Each repository documents its setup, architecture, validation, contribution scope, and known limitations. Upstream adaptations and team work are identified in their project documentation.
+<p align="center">
+  <img
+    src="./assets/tech-stack-header.svg?v=1"
+    alt="Tech Stack"
+    width="100%"
+  />
+</p>
+
+
+### `├─[ LANGUAGES ]────────────────────────────────────────────`
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### `├─[ FRONTEND ]─────────────────────────────────────────────`
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+
+### `├─[ BACKEND_&_FRAMEWORKS ]────────────────────────────────`
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
+### `├─[ DATABASES ]────────────────────────────────────────────`
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### `└─[ AI_&_MACHINE_LEARNING ]────────────────────────────────`
+
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit--Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+
+### `└─[ DEVOPS_&_CLOUD ]───────────────────────────────────────`
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
+<br><br>
+
+<!-- ====================================================== -->
+<!-- FEATURED PROJECTS                                      -->
+<!-- ====================================================== -->
+
+<img
+  src="./assets/headers/featured-projects.svg?v=5"
+  alt="Featured Projects"
+  width="100%"
+/>
+
+<br>
+
+<!-- ================= PROJECT 01 ================= -->
+
+<a href="https://github.com/dgexplores/aegis-gateway">
+  <img
+    src="./assets/projects/aegis-gateway-card.svg?v=1"
+    alt="AEGIS AI Gateway"
+    width="100%"
+  />
+</a>
+
+<!-- ================= PROJECT 02 ================= -->
+
+<a href="https://github.com/dgexplores/ai-support-agent">
+  <img
+    src="./assets/projects/ai-support-agent-card.svg?v=1"
+    alt="Aster and Row AI Support Agent"
+    width="100%"
+  />
+</a>
+
+<!-- ================= PROJECT 03 ================= -->
+
+<a href="https://github.com/dgexplores/hustlrzz">
+  <img
+    src="./assets/projects/hustlrzz-card.svg?v=1"
+    alt="HUSTLRZZ AI Mock Interview Coach"
+    width="100%"
+  />
+</a>
+
+<!-- ================= PROJECT 04 ================= -->
+
+<a href="https://github.com/dgexplores/DRONA">
+  <img
+    src="./assets/projects/dronav2-card.svg?v=1"
+    alt="SRMS Drona Learning and HR Analytics Platform"
+    width="100%"
+  />
+</a>
+
+<!-- ================= PROJECT 05 ================= -->
+
+<a href="https://github.com/dgexplores/smart-chatbot">
+  <img
+    src="./assets/projects/smart-chatbot-card.svg?v=6"
+    alt="AI Sales Executive Platform"
+    width="100%"
+  />
+</a>
+
+<!-- ================= PROJECT 06 ================= -->
+
+<a href="https://github.com/dgexplores/bank-customer-churn-scoring">
+  <img
+    src="./assets/projects/bank-churn-card.svg?v=6"
+    alt="Bank Customer Churn Scoring"
+    width="100%"
+  />
+</a>
+
+<br><br>
+
+<!-- ====================================================== -->
+<!-- CONTRIBUTION ACTIVITY                                  -->
+<!-- ====================================================== -->
+<!--
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=dgexplores&bg_color=07060D&color=C084FC&title_color=FACC15&line=EC4899&point=FACC15&area=true&area_color=A855F7&hide_border=true&c[...]
+  alt="Deepak Gangwar GitHub contribution activity graph"
+  width="100%"
+/>
+
+<br><br>
+-->
+<!-- ====================================================== -->
+<!-- GITHUB GROWTH                                          -->
+<!-- ====================================================== -->
+
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dgexplores&theme=radical"
+    alt="Deepak Gangwar GitHub growth"
+    width="100%"
+  />
+</p>
+
+<br><br>
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/deepak-gangwar-1231033b5/)
+[![Threads](https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white)](https://www.threads.com/@deepakg.one)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/notdeepakg)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/deepakg.one/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail)](mailto:gangwardeepak7878@gmail.com)
+
+</div>
+
+---
+
+**"Code. Learn. Build. Repeat."**
