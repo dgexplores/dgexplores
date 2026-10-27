@@ -17,7 +17,7 @@ I build AI applications with retrieval, structured model outputs, access control
 | [BloomPulse](https://github.com/dgexplores/hyperbloom-bloompulse) | Sensor anomaly analysis with Isolation Forest, physics checks, and cited maintenance guidance. Evaluation fixtures are synthetic. | [Keyless sample](https://hyperbloom-bloompulse.vercel.app/?demo=failing) |
 | [DRONA](https://github.com/dgexplores/DRONA) | Django learning platform with staff/manager workflows, quizzes, progress tracking, and verifiable certificates. | [Application](https://dronav2.onrender.com/) |
 
-**Current demo limits:** Hustlrzz's Supabase project is paused, so authenticated use is awaiting restoration. NeuroAgent's public example works; hosted backend CI remains under investigation. Free hosting and model quotas can affect availability. The [demo guide](https://interview-161-118-164-31.sslip.io/) records the checked journeys and limitations.
+**Current demo limits:** Hustlrzz's restored deployment has passed authenticated role-fit analysis, resume indexing, and a bounded text interview with saved AI scoring. NeuroAgent's public example works; hosted backend CI remains under investigation. Free hosting and model quotas can affect availability. The [demo guide](https://interview-161-118-164-31.sslip.io/) records the checked journeys and limitations.
 
 ## Technical focus
 
