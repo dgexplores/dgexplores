@@ -174,6 +174,17 @@
 
 <br><br>
 
+## Interview demonstrations
+
+[Open the verified demo guide](https://interview-161-118-164-31.sslip.io/) for project links, checked journeys and limitations.
+
+- **[NeuroAgent](https://neuro-161-118-164-31.sslip.io/):** hosted CI and Oracle release passed; 181 backend tests passed. A fresh fictional Gemini response, saved-case retrieval and owner isolation were verified. Extends an upstream project.
+- **[Hustlrzz](https://hustlrzz.vercel.app/):** restored and checked through sign-in, resume indexing, role-fit analysis and a text interview with saved AI scoring. Team project; voice/camera behavior needs rehearsal.
+- **[AEGIS](https://aegis-gateway-free.onrender.com/dashboard):** retrieval and safety demonstrations use the echo provider.
+- **[Vigil](https://vigil-161-118-164-31.sslip.io/login):** fictional bank login and database safeguards verified. Extends upstream Vigil and Bank of Anthos.
+
+Free hosting and model quotas can affect availability. The guide records the verification boundaries.
+
 <!-- ====================================================== -->
 <!-- CONTRIBUTION ACTIVITY                                  -->
 <!-- ====================================================== -->
