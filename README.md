@@ -177,26 +177,11 @@
 <!-- ====================================================== -->
 <!-- CONTRIBUTION ACTIVITY                                  -->
 <!-- ====================================================== -->
-<!--
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=dgexplores&bg_color=07060D&color=C084FC&title_color=FACC15&line=EC4899&point=FACC15&area=true&area_color=A855F7&hide_border=true&c[...]
-  alt="Deepak Gangwar GitHub contribution activity graph"
-  width="100%"
-/>
 
-<br><br>
--->
-<!-- ====================================================== -->
-<!-- GITHUB GROWTH                                          -->
-<!-- ====================================================== -->
-
-<p align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dgexplores&theme=radical"
-    alt="Deepak Gangwar GitHub growth"
-    width="100%"
-  />
-</p>
+<picture>
+  <source media="(prefers-reduced-motion: reduce)" srcset="./assets/space-shooter-static.png" />
+  <img src="./assets/space-shooter.gif" alt="Deepak Gangwar GitHub contributions as Space Shooter" width="100%" />
+</picture>
 
 <br><br>
 
